@@ -25,7 +25,7 @@ Cons:
 Issues I've discovered while using this ISO:
 - TrustedInstaller is just broken on this ISO. Everything that relies on it will crash.
 - SFC is broken due to TrustedInstaller being broken.
-<img width="701" height="370" alt="image" src="https://github.com/user-attachments/assets/9635424a-c19a-4ea9-8824-d7974e2c998e" />
+<img width="701" height="370" src="https://github.com/user-attachments/assets/9635424a-c19a-4ea9-8824-d7974e2c998e" />
 - slgmr /rearm will give "Error: 0XC004D307: The maximum allowed number of re-arms has been exceeded."
 - sysprep.exe generalize will not work due to the same issue as the point above.
 - **"Turn Windows features on or off" is broken**. So any features turned on by default cannot be turned off (e.g: Hyper-V cannot be turned off)
@@ -33,6 +33,6 @@ Issues I've discovered while using this ISO:
 - Windows Media Player 11 cannot play anything by default. WMA/WMV will refuse to play.
 - The pre-included Ultimate Extras cannot be uninstalled as they won't show in "View installed updates"
   
-<img width="1854" height="1108" alt="cz6Dsuc" src="https://github.com/user-attachments/assets/15ee4987-d575-40bc-ab06-5ac74d575842" />
+<img width="927" height="554" src="https://github.com/user-attachments/assets/15ee4987-d575-40bc-ab06-5ac74d575842" />
 
-<img width="547" height="299" alt="image" src="https://github.com/user-attachments/assets/8a0ef915-4fb9-4d3a-9a75-ae06c96bf709" />
+<img width="547" height="299" src="https://github.com/user-attachments/assets/8a0ef915-4fb9-4d3a-9a75-ae06c96bf709" />
