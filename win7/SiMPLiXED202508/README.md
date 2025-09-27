@@ -13,6 +13,7 @@ Pros:
 - It has Visual C++ 2005-2022 pre-included.
 - It comes with SmartFix Tool pre-included.
 - It has Internet Explorer 11 pre-installed but you can revert back to Internet Explorer 8.
+- It doesn't come with Microsoft Edge pre-installed.
 
 Cons:
 - Due to the fact that all updates are uninstallable, the installed disk size suffers from it (the installed size is 19GB)
