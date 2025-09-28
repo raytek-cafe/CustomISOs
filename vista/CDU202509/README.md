@@ -1,6 +1,6 @@
 # CDU's Windows Vista Updated ISO 2025-09
 
-- Verdict: **⛔ Avoid!**
+- Verdict: **🍅 Terrible!**
 
 Well, What to say... This ISO is terrible. From broken codecs to broken TrustedInstaller, the only use for this ISO is to take stuff from it for your own ISO.
 
