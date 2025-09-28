@@ -17,4 +17,4 @@ Pros:
 
 Cons:
 - Due to the fact that all updates are uninstallable, the installed disk size suffers from it (the installed size is 19GB)
-- Windows has a 3 day trial instead of a 30 days one.
+- Windows has a 3 day trial instead of a 30 day one.
